@@ -80,4 +80,4 @@ Cybersecurity Professional | OT Security | Linux & Automation
 🔗 [GitHub](https://github.com/JoeySmith-SOC)
 
 📜 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/JoeySmith-SOC/scada-security-automation/blob/main/LICENSE) file for details.
