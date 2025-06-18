@@ -45,3 +45,39 @@ scada-security-automation/
 ├── LICENSE
 ├── .gitignore
 └── README.md
+```
+🎯 Objectives
+Demonstrate SCADA-specific cybersecurity techniques
+
+Provide reproducible examples for securing ICS networks
+
+Build a teaching and documentation resource for others in OT security
+
+📷 Screenshots & Diagrams
+Coming soon:
+
+Network architecture diagram
+
+Snort log output
+
+Grafana dashboard screenshot
+
+📚 Documentation
+All detailed walkthroughs will be available in /docs/full_documentation.md and linked from my blog.
+
+📎 Related Blog Series
+Follow the full breakdown of this project on LinkedIn and my website:
+
+Blog Post #1: Why SCADA Needs Better Security
+
+Blog Post #2: Coming Soon
+
+🧑‍💻 Author
+Joseph Smith
+Cybersecurity Professional | OT Security | Linux & Automation
+🔗 [Portfolio]()
+🔗 [LinkedIn](https://www.linkedin.com/in/joeysmith-cybertocircuit/)
+🔗 [GitHub](https://github.com/JoeySmith-SOC)
+
+📜 License
+This project is licensed under the MIT License — see the LICENSE file for details.
